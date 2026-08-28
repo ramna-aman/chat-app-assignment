@@ -79,7 +79,6 @@ Updates the unread badge
 Updates blue read ticks
 12.chat:typing :
 Shows the typing indicator
-Screenshots
 ## Screenshots
 
 ### Login
