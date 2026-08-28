@@ -34,7 +34,7 @@ A real-time one-to-one chat application built using MERN stack and Socket.IO.
 
 Open terminal:
 
-```bash
+
 cd server
 npm install
 npm run dev
@@ -79,6 +79,7 @@ Updates the unread badge
 Updates blue read ticks
 12.chat:typing :
 Shows the typing indicator
+
 ## Screenshots
 
 ### Register
