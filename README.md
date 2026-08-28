@@ -81,20 +81,26 @@ Updates blue read ticks
 Shows the typing indicator
 ## Screenshots
 
-### Login
-![Login](./screenshots/02-login.png)
-
 ### Register
 ![Register](./screenshots/01-register.png)
 
+### Login
+![Login](./screenshots/02-login.png)
+
+### Incognito Chrome Login
+![Incognito Chrome Login](./screenshots/03-Incognito%20chrome%20login.png)
+
 ### User List
 ![User List](./screenshots/04-chatlist.png)
-
-### Chat
-![Chat](./screenshots/08-chat%20between%20two%20users.png)
 
 ### Unread Messages
 ![Unread Messages](./screenshots/05-read%20and%20unread%20chat.png)
 
 ### Mobile Responsive
 ![Mobile Responsive](./screenshots/06.mobile%20view.png)
+
+### Typing Indicator
+![Typing Indicator](./screenshots/07-typing.png)
+
+### Chat
+![Chat](./screenshots/08-chat%20between%20two%20users.png)
