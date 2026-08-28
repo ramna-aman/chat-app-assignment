@@ -98,4 +98,4 @@ Screenshots
 ![Unread Messages](./screenshots/05-read%20and%20unread%20chat.png)
 
 ### Mobile Responsive
-![Mobile Responsive](./screenshots/06-mobile%20view.png)
+![Mobile Responsive](./screenshots/06.mobile%20view.png)
